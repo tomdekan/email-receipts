@@ -1,0 +1,6 @@
+*.eml
+*.pdf
+.env
+venv
+.DS_Store
+*.csv
