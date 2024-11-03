@@ -13,10 +13,8 @@ This repo:
 2. Extracts key financial data from those PDFs into a CSV file (which I can import neatly into Google Sheets)
 
 
-## Files
-
 ### 1. Email to PDF Converter
-- Converts `.eml` files to searchable PDFs
+- `convert_eml_to_pdf.py`: Converts `.eml` files to searchable PDFs
 - Preserves email metadata (date, sender, subject)
 - Creates an index PDF with all converted emails
 - Handles attachments and special characters
